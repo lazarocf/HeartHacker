@@ -5,6 +5,7 @@
 - [x] Edit and commit changes in the readme.md file in the respository
 - [x] Explore at least one existing Python code base related to the project
 - [ ] https://github.com/YangChuan80/AusculPi-Console
+- [ ] https://github.com/Nyceane/Digital-Stethoscope-AI.git
 - [ ] Evaluate existing code and submit updates to the projectroadmap.md file explaining the findings
 - [ ] Attempt to run code with updates
 ## Sprint 2
